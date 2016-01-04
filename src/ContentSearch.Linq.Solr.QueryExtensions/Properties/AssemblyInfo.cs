@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sitecore.ContentSearch.Fluent")]
-[assembly: AssemblyDescription("Fluent API for Sitecore Content Search API")]
+[assembly: AssemblyTitle("Sitecore.ContentSearch.Linq.Solr.QueryExtensions")]
+[assembly: AssemblyDescription("Solr Queryable Extensions")]
 [assembly: AssemblyCompany("Kyle Kingsbury")]
-[assembly: AssemblyProduct("Sitecore.ContentSearch.Fluent")]
+[assembly: AssemblyProduct("Sitecore.ContentSearch.Linq.Solr.QueryExtensions")]
 [assembly: AssemblyCopyright("Copyright © Kyle Kingsbury 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -37,5 +37,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.2.1")]
-[assembly: AssemblyFileVersion("0.2.1")]
+[assembly: AssemblyVersion("0.2.2")]
+[assembly: AssemblyFileVersion("0.2.2")]
